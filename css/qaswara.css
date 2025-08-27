@@ -991,7 +991,7 @@ padding-bottom: 14px;
     display: flex;
     gap: 20px;
 }
-@media(max-widht:767px){
+@media(max-width:767px){
     .events .container .subscribe form{
         max-width: 100%;
         padding: 20px;
@@ -1110,7 +1110,7 @@ display: block;
 .pricing .container .box a {
     color:white;
     padding: 15px 30px;
-    font-size: 20;
+    font-size: 20px;
     border: 3px solid #dddddd;
     margin: 35px;
     border-radius: 8px;
