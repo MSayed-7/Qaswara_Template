@@ -993,7 +993,7 @@ padding-bottom: 14px;
 }
 @media(max-width:767px){
     .events .container .subscribe form{
-        max-width: 100%;
+        max-width: 400px;
         padding: 20px;
         flex-direction: column;
 }
